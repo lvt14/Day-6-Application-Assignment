@@ -1,0 +1,16 @@
+# Stata
+*.dta
+*.stswp
+*.stsym
+
+# Data files (if sensitive)
+# data/raw/
+# data/processed/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+*.smcl
